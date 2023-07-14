@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jidehen/Data-Entry-Form-V2#readme",
   "devDependencies": {
-    "cypress": "^4.9.0"
+    "cypress": "^4.12.1"
   }
 }
